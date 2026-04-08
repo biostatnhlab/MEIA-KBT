@@ -16,3 +16,6 @@ To support the scientific reproducibility of our findings, we provide this struc
 1. Install dependencies:
    ```bash
    pip install xgboost shap scikit-learn pandas numpy
+2. Run the main script:
+   ```bash
+   python main_pipeline.py
